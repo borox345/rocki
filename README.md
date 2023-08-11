@@ -1,4 +1,4 @@
-<div  align="center">
+<div align="center">
 
 # ``🤖 rocki``
 Simple Discord Bot written in Python using Discord.py
