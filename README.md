@@ -4,6 +4,7 @@
 Simple Discord Bot written in Python using Discord.py
 
 </div>
+
 ## About
 I created this bot long time ago so I don't know is it still working. Some commands are not finished and I'm not planing to end them. If you have any questions about this bot <a href="https://borox.site">DM me</a>.
 
